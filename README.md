@@ -1,6 +1,6 @@
-# flutter_boilerplate
+# flutter_boilerplate_get
 
-Structure of folders and main classes for initialize your Flutter project.
+Structure of folders and main classes for initialize your Flutter project using Get.
 
 ## How to use?
 
